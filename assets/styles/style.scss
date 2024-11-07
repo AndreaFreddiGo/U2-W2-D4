@@ -1,8 +1,13 @@
 body {
   font-family: 'Inter';
-  nav {
-    img {
-      max-height: 50px;
+  header {
+    nav {
+      img {
+        max-height: 50px;
+      }
     }
+  }
+  #hero {
+    background-color: #7550fe;
   }
 }

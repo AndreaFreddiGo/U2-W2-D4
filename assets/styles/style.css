@@ -1,6 +1,9 @@
 body {
   font-family: "Inter";
 }
-body nav img {
+body header nav img {
   max-height: 50px;
+}
+body #hero {
+  background-color: #7550fe;
 }/*# sourceMappingURL=style.css.map */
