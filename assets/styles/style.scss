@@ -5,9 +5,12 @@ body {
       img {
         max-height: 50px;
       }
+      .avatar {
+        border-radius: 100%;
+      }
     }
   }
-  #hero {
-    background-color: #7550fe;
-  }
+}
+#hero {
+  background-color: #7550fe;
 }

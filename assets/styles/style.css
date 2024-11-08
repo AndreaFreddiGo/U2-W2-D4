@@ -4,6 +4,10 @@ body {
 body header nav img {
   max-height: 50px;
 }
-body #hero {
+body header nav .avatar {
+  border-radius: 100%;
+}
+
+#hero {
   background-color: #7550fe;
 }/*# sourceMappingURL=style.css.map */
